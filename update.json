@@ -1,0 +1,25 @@
+{ 
+     "current_version": "1.0",
+     "is_latest": true,
+     "update_history": [
+       {
+         "version": "1.0",
+         "release_date": "2023-06-15T00:00:00Z",
+         "details": [
+           "초기 버전 릴리스",
+           "슬라이드 저장 및 검색 기능",
+           "태그 기반 슬라이드 관리",
+           "Microsoft 계정 연동"
+         ]
+       },
+       {
+         "version": "0.9 Beta",
+         "release_date": "2023-05-01T00:00:00Z",
+         "details": [
+           "베타 버전 릴리스", 
+           "기본 UI 구현",
+           "OneDrive 연동 테스트"
+         ]
+       }
+     ]
+   }
